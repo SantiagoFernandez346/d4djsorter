@@ -20,28 +20,29 @@ dataSet[dataSetVersion].options = [
 ];
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Yuuka Nishio",
+    name: "Yuuka Nishio(Rinku)",
     img: "c5DqpgX.png",
+
     opts: {
       series: [ "HA" ],
     }
   },
   {
-    name: "Karin Kagami",
+    name: "Karin Kagami(Maho)",
     img: "tJnkSzK.png",
     opts: {
      series: ["HA"]
     }
   },
   {
-    name: "Kanon Shizaki",
+    name: "Kanon Shizaki(rei)",
     img: "0YT7QlS.png",
     opts: {
       series: ["HA"]
     }
   },
   {
-    name: "Haruka Mimura",
+    name: "Haruka Mimura(muni)",
     img: "NWlZud3.png",
     opts: {
       series: ["HA"]
@@ -49,140 +50,140 @@ dataSet[dataSetVersion].characterData = [
     },
   },
   {
-    name: "Aimi",
+    name: "Aimi(kyouko)",
     img: "qdveFSy.png",
     opts: {
       series: [ "PP" ],
     }
   },
   {
-    name: "Moeka Koizumi",
+    name: "Moeka Koizumi(jennifer)",
     img: "ptGp0x4.png",
     opts: {
       series: [ "PP" ],
     }
   },
   {
-    name: "Miyu Takagi",
+    name: "Miyu Takagi(shinobu)",
     img: "vBKdDm4.png",
     opts: {
       series: [ "PP" ],
     }
   },
   {
-    name: "Reo Kurachi",
+    name: "Reo Kurachi(esora)",
     img: "A7ZnuHo.png",
     opts: {
       series: [ "PP" ],
     }
   },
   {
-    name: "Hinata Satou",
+    name: "Hinata Satou(noa)",
     img: "sgZPf11.png",
     opts: {
       series: [ "PM" ],
     }
   },
   {
-    name: "Ami Maeshima",
+    name: "Ami Maeshima(ibuki)",
     img: "8UX7hKE.png",
     opts: {
       series: [ "PM" ],
     }
   },
   {
-    name: "Haruki Iwata",
+    name: "Haruki Iwata(towa)",
     img: "OhaDcnc.png",
     opts: {
       series: [ "PM" ],
     }
   },
   {
-    name: "Risa Tsumugi",
+    name: "Risa Tsumugi(saki)",
     img: "MgzqjFK.png",
     opts: {
       series: [ "PM" ],
     }
   },
   {
-    name: "Natsumi Hirajima",
+    name: "Natsumi Hirajima(rika)",
     img: "ohmetZh.png",
     opts: {
      series: ["M"],
     }
   },
   {
-    name: "Mei Okada",
+    name: "Mei Okada(marika)",
     img: "aDIf0pN.png",
     opts: {
       series: ["M"],
     }
   },
   {
-    name: "Himari Hazuki",
+    name: "Himari Hazuki(saori)",
     img: "2Pr8b2N.png",
     opts: {
       series: ["M"],
     }
   },
   {
-    name: "Ai Negishi",
+    name: "Ai Negishi(dalia)",
     img: "htOMdDQ.png",
     opts: {
       series: ["M"],
     }
   },
   {
-    name: "Rihona Katou",
+    name: "Rihona Katou(tsubaki)",
     img: "PrRPujP.png",
     opts: {
       series: ["R"],
     }
   },
   {
-    name: "Sae Otsuka",
+    name: "Sae Otsuka(nagisa)",
     img: "ze79bFC.png",
     opts: {
       series: ["R"],
     }
   },
   {
-    name: "Haruna Momono",
+    name: "Haruna Momono(hiiro)",
     img: "WMjyRLJ.png",
     opts: {
       series: ["R"],
     }
   },
   {
-    name: "Tsunko",
+    name: "Tsunko(aoi)",
     img: "VT9mTGb.png",
     opts: {
       series: ["R"],
     }
   },
   {
-    name: "Hazuki Tanda",
+    name: "Hazuki Tanda(miyuu)",
     img: "rshnJPV.png",
     opts: {
       series: ["LL"],
     }
   },
   {
-    name: "Amane Shindou",
+    name: "Amane Shindou(haruna)",
     img: "qsceD4I.png",
     opts: {
       series: ["LL"],
     }
   },
   {
-    name: "Ruka Fukagawa",
+    name: "Ruka Fukagawa(kurumi)",
     img: "pLdMjQ3.png",
     opts: {
       series: ["LL"],
     }
   },
   {
-    name: "Yuzuki Watase",
+    name: "Yuzuki Watase(miiko)",
     img: "8DLUAPf.png",
     opts: {
       series: ["LL"],
